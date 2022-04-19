@@ -10,8 +10,8 @@ public class Ex15 {
 		
 		System.out.print("마일을 입력하세요: ");
 		final double KM=1.609;
-		double m=sc.nextDouble();
-		System.out.println(m+"마일은 "+m*KM+"킬로미터 입니다.");
+		double mile=sc.nextDouble();
+		System.out.println(mile+"마일은 "+mile*KM+"킬로미터 입니다.");
 		
 		sc.close();
 		
